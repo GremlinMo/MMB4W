@@ -1,0 +1,21 @@
+MMB4W Emulator - Desktop Preview 1
+MMBasic for Windows version: 5.07.03b20
+Release tag: mmb4w-emulator-5.07.03b20-desktop.1
+Source: https://github.com/GremlinMo/MMB4W/tree/emulator-desktop
+Source commit: c5a5c59a8ef6cd0c88ab3334dc8950533153ef9a
+Source commit timestamp: 2026-11-11T19:43:20+08:00
+Upstream base: b1a0586a6559e7b29b5f71ee411798f03d55fbae
+Build completed UTC: 2026-11-11 11:38:21 UTC
+Build completed AWST: 2026-11-11 19:38:21 AWST (UTC+08:00)
+Build: Release Win32, C++17, static C++ runtime, Visual Studio v145, Windows SDK 10.0.28000.0
+Executable: MMB4W-Emulator.exe
+Executable SHA256: 344e8e4a80af7c086e06907fe13119227876e1b1a5d9aa3b8aed498772eb74fd
+Validation: Native input checks passed; 313 native shell checks passed.
+BASIC probes: WINDOWS BMP, TURTLE SCOPE, CLI, MODE, FRAMEBUFFER, INPUT MONITOR all passed.
+Physical XInput controller hardware was not available for testing.
+Scope: MMBasic interpreter application; no complete CPU/peripheral-level CMM2 emulation.
+TURTLE is unavailable in this standalone preview. Original turtle and embedded BMP sources are retained but excluded from compilation.
+Package contains no Gauntlet launcher, shortcut, game or game assets.
+
+This product includes software developed by Geoff Graham and Peter Mather.
+Retain MMBasic-LICENSE.txt and THIRD-PARTY-NOTICES.txt with binary redistributions.
